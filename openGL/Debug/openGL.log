@@ -1,0 +1,24 @@
+﻿  pch.cpp
+  openGL.cpp
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(21): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(42): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(44): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(45): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(53): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(54): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(68): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(69): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(88): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(89): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(97): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(98): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(104): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(105): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(124): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(125): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(136): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(137): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\administrator\desktop\opengl\opengl\opengl.cpp(144): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  openGL.vcxproj -> C:\Users\Administrator\Desktop\openGL\Debug\openGL.exe
